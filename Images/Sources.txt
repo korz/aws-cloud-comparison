@@ -1,0 +1,24 @@
+AWS Console.png - Screenshot of my AWS Console
+GCP Console.png - Screenshot of my GCP Console
+Azure Portal.png - Screenshot of my Azure Console
+
+GCP CLI.png - Screenshot of my CLI
+AWS CLI.png - Screenshot of my CLI
+Azure CLI.png - Screenshot of my CLI
+Azure Login CLI.png - Screenshot of my CLI
+Linux Copy Command.png - Screenshot of my CLI
+
+API Gateway Diagram.png - https://aws.amazon.com/api-gateway/
+ECR Diagram.png - https://aws.amazon.com/ecr/#
+RabbitMQ - Publish Consumer.png - https://www.rabbitmq.com/tutorials/tutorial-one-python.html
+RabbitMQ - Worker Queues.png - https://www.rabbitmq.com/tutorials/tutorial-two-python.html
+RabbitMQ - PubSub.png - https://www.rabbitmq.com/tutorials/tutorial-three-python.html
+RabbitMQ - Routing.png - https://www.rabbitmq.com/tutorials/tutorial-four-python.html
+RabbitMQ - Topics.png - https://www.rabbitmq.com/tutorials/tutorial-five-python.html
+Data Lake.png - I created
+Machine_Learning_Toyota_012-1024x558.png - https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-getting-started-with-azure-machine-learning/ba-p/331327
+
+Azure Custom Vision API Upload.png - https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-csharp
+
+Azure Custom Vision API Accuracy.png - https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/test-your-model
+Azure Custom Vision API Predict.png - https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/test-your-model
